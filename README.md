@@ -1,2 +1,2 @@
 View Live on
-devrecepie.netlify.app
+https://devrecepie.netlify.app/
